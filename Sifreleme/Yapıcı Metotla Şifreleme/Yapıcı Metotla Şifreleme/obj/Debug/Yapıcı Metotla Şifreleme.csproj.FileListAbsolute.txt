@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Yapıcı Metotla Şifreleme\Yapıcı Metotla Şifreleme\bin\Debug\Yapıcı Metotla Şifreleme.exe.config
+C:\Users\hp\source\repos\Yapıcı Metotla Şifreleme\Yapıcı Metotla Şifreleme\bin\Debug\Yapıcı Metotla Şifreleme.exe
+C:\Users\hp\source\repos\Yapıcı Metotla Şifreleme\Yapıcı Metotla Şifreleme\bin\Debug\Yapıcı Metotla Şifreleme.pdb
+C:\Users\hp\source\repos\Yapıcı Metotla Şifreleme\Yapıcı Metotla Şifreleme\obj\Debug\Yapıcı Metotla Şifreleme.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Yapıcı Metotla Şifreleme\Yapıcı Metotla Şifreleme\obj\Debug\Yapıcı Metotla Şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Yapıcı Metotla Şifreleme\Yapıcı Metotla Şifreleme\obj\Debug\Yapıcı Metotla Şifreleme.exe
+C:\Users\hp\source\repos\Yapıcı Metotla Şifreleme\Yapıcı Metotla Şifreleme\obj\Debug\Yapıcı Metotla Şifreleme.pdb
